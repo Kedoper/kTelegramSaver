@@ -38,3 +38,9 @@ include 'kTelegramSaver.php';
 
   print_r($saver->saveFilteredMessages($to_save['items']));
 ````
+
+### Run:
+
+1) Download the latest release and unzip to any convenient location
+1) Run script by command shell ``php demo.php`` (run demo.php for example)
+1) Enter the code you received from Telegram ``Enter the code you received: ``
