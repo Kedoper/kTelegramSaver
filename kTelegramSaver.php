@@ -53,8 +53,8 @@ class kTelegramSaver
              * */
             $madeline = new API([
                 'app_info' => [
-                    'api_id' => 1060318,
-                    'api_hash' => '9f139864793b82b7609edd8344832cef',
+                    'api_id' => $this->api_id,
+                    'api_hash' => $this->api_hash,
                 ]
             ]);
 
