@@ -2,7 +2,6 @@
 
 ### Requirements:
 1) PHP ^7.1
-1) Python ^2.7
 
 ### Demo:
 
