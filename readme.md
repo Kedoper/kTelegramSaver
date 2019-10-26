@@ -1,5 +1,9 @@
 # kTelegramSaver - console app for save images by tags
 
+### Requirements:
+1) PHP ^7.1
+1) Python ^2.7
+
 ### Demo:
 
 For example the Telegram channel with this id is taken `1347758174`. [Channel Link](https://t.me/nozhk1_2d).
